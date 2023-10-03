@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgreen;
+    background-color: antiquewhite;
+}
+#sketch_name{
+color: darkgreen;
+}
+#show_sketch{
+    float: right;
+}
+canvas{
+    border: 5px solid green;
+    border-radius: 20px;
+    margin-top: 150px;
+}
+p, span{
+    padding-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+#score{
+    font-size: 35px;
+    margin-left: 20px;
+}
+#time{
+    font-size: 35px;
+    float: right;
+    margin: 20px;
+}
